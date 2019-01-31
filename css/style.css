@@ -130,7 +130,7 @@ header {
 
 
 .action-banner1 {
-    background: linear-gradient(to right, rgba(20, 20, 20, 1), rgba(20, 20, 20, 0.3));
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/pexels.jpeg);
     background-position: center;
     background-size: cover;
     height: 200px;
